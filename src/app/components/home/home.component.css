@@ -1,0 +1,7 @@
+table {
+  width: 800px;
+}
+
+.mat-mdc-table {
+  min-width: 0%;
+}
